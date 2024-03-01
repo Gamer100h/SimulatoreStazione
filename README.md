@@ -11,3 +11,5 @@ in più sono aggiungibili segnali di manovra collegabili ai segnali di prima cat
 CREDITI: DARIO MINGIONE, AMICI DEL TRENO FORLI
 
 SITO WEB: https://www.amicideltrenoforli.it/
+
+IN ARRIVO VERSIONE 1.1
