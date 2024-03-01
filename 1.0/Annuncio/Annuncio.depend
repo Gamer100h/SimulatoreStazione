@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708716592 source:c:\users\888da\desktop\file pisa\new folder (2)\annuncio\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
