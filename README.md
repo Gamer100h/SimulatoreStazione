@@ -7,3 +7,7 @@ con il codice "c" la via libera
 con il codice "d" un treno fermo in stazione
 
 in più sono aggiungibili segnali di manovra collegabili ai segnali di prima categoria
+
+CREDITI: DARIO MINGIONE, AMICI DEL TRENO FORLI
+
+SITO WEB: https://www.amicideltrenoforli.it/
